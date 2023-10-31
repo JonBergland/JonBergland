@@ -1,6 +1,6 @@
 # Jon Bergland
 - 👋 Hi, I’m Jon Bergland
-- 👨‍🎓 I'm currently doing a Bachellor in Computer Engineering
+- 👨‍🎓 I'm currently doing a Bachellor in Computer Engineering at NTNU
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ...
 
