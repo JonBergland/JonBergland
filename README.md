@@ -9,6 +9,11 @@ JonBergland/JonBergland is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+## Technologies & Tools I use:
+<div align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65 height="65"/>
+</div>
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
