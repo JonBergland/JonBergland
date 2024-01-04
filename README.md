@@ -2,7 +2,8 @@
 - 👋 Hi, I’m Jon Bergland
 - 👨‍🎓 I'm currently doing a Bachellor in Computer Engineering at NTNU
 - 🌱 I’m currently learning Java
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/jon-bergland-97b56b29b/)
 
 <!---
 JonBergland/JonBergland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
