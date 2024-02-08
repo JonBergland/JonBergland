@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65" height="65"/>
-      <img src="logos/javascript.png" alt="javascript"     width="65" height="65"/>
+      <img src="logos/javascript.png" alt="javascript"     width="75" height="75"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"      width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"      width="55" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle"      width="55" height="65"/>
